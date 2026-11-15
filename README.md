@@ -11,3 +11,4 @@ A curated collection of data solutions, consulting frameworks, and solution acce
 | [Databricks](https://github.com/teruece/Databricks_Codes_and_Projects/tree/main/use-cases) | Delta Lake shipment ingestion and PySpark sensor data quality. |
 | [SQL](https://github.com/teruece/SQL_Codes_and_Projects/tree/main/use-cases) | Support SLA ageing and subscription retention cohorts. |
 | [Python](https://github.com/teruece/Python_Codes_and_Projects/tree/main/use-cases) | Payment settlement reconciliation and command-line log triage. |
+| [AI governance, strategy and analytics](https://github.com/teruece/AI_Governance_Strategy_and_Analytics) | A runnable SLA breach-risk model, AI use-case prioritisation, a risk register and a controlled rollout design. |
